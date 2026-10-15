@@ -9,6 +9,8 @@ env/
 venv/          # Virtual environment for testing
 .venv
 
+#prepare-to-collaborate
+
 # Teacher IDE settings
 .vscode/       # Ms. Rodriguez uses VS Code
 .idea/         # Mr. Chen uses PyCharm
